@@ -11,7 +11,7 @@ O presente projeto foi desenvolvido como parte das atividades práticas da disci
 ├── index.html
 ├── style.css
 └── images/
-    └── banner.jpg
+    └── banner.png
 ```
 ## Justificativa
 A construção de interfaces visuais é uma habilidade essencial para profissionais da área de desenvolvimento web. Compreender a relação entre estrutura, conteúdo e design é fundamental para oferecer experiências de navegação intuitivas. Esta prática proporciona a oportunidade de aplicar esses conhecimentos em um projeto prático, consolidando a teoria estudada.
