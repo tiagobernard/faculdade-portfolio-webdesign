@@ -10,7 +10,7 @@ O presente projeto foi desenvolvido como parte das atividades práticas da disci
 │
 ├── index.html
 ├── style.css
-└── images/
+└── imagens/
     └── banner.png
 ```
 ## Justificativa
