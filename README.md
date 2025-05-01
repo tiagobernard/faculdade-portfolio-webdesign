@@ -6,7 +6,7 @@ O presente projeto foi desenvolvido como parte das atividades práticas da disci
 
 ## Estrutura
 ```
-/seu_projeto/
+/pasta-do-projeto/
 │
 ├── index.html
 ├── style.css
